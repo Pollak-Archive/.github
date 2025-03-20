@@ -10,10 +10,12 @@ This organization is divided into multiple repositories, each dedicated to a spe
 - 📖 **Literature**
 - 📝 **Grammar**
 - 💻 **Programming** 
-- 🗄 **Database Management** 
+- 🗄 **Database Management**
+- 🌐 **Digital Culture** 
 - 🔢 **Mathematics** 
 - 🔬 **Physics**
 - 📘 **English**
+- 🎯 **Bungalo**
 
 ## 🎯 Purpose  
 
