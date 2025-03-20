@@ -1,6 +1,6 @@
 # 📚 The Knowledge Archive – A Complete School Archive  
 
-Welcome to **The Knowledge Archive**, a central hub for all our school-related materials from **9th to 12th grade**! This organization contains structured resources across various subjects, including **History, Literature, Programming, Math, Science, and more**.  
+Welcome to **The Knowledge Archive**, a central hub for all our school-related materials from **9th to 12th grade**! This organization contains structured resources across various subjects, including **History, Literature, Programming, Math, and more**.  
 
 ## 📂 What's Inside?  
 
