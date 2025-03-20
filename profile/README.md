@@ -7,11 +7,13 @@ Welcome to **The Knowledge Archive**, a central hub for all our school-related m
 This organization is divided into multiple repositories, each dedicated to a specific subject:  
 
 - 🏛 **History** 
-- 📖 **Literature** 
+- 📖 **Literature**
+- 📝 **Grammar**
 - 💻 **Programming** 
 - 🗄 **Database Management** 
-- 🔢 **Math** 
+- 🔢 **Mathematics** 
 - 🔬 **Physics**
+- 📘 **English**
 
 ## 🎯 Purpose  
 
