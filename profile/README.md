@@ -10,7 +10,7 @@ This organization is divided into multiple repositories, each dedicated to a spe
 - 📖 **Literature** – Book analyses, essays, and study guides.  
 - 💻 **Programming** – Code snippets, projects, and exercises (C++, C#, JavaScript, etc.).
 - 🗄 **Database Management** – SQL queries, database design principles, and relational database concepts.
-- 🔢 **Math & Science** – Formulas, theorems, and problem-solving guides.  
+- 🔢 **Math** – Formulas, theorems, and problem-solving guides.  
 
 ## 🎯 Purpose  
 
