@@ -6,11 +6,12 @@ Welcome to **The Knowledge Archive**, a central hub for all our school-related m
 
 This organization is divided into multiple repositories, each dedicated to a specific subject:  
 
-- 🏛 **History** – Class notes, timelines, summaries, and essays.  
-- 📖 **Literature** – Book analyses, essays, and study guides.  
-- 💻 **Programming** – Code snippets, projects, and exercises (C++, C#, JavaScript, etc.).
-- 🗄 **Database Management** – SQL queries, database design principles, and relational database concepts.
-- 🔢 **Math** – Formulas, theorems, and problem-solving guides.  
+- 🏛 **History** 
+- 📖 **Literature** 
+- 💻 **Programming** 
+- 🗄 **Database Management** 
+- 🔢 **Math** 
+- 🔬 **Physics**
 
 ## 🎯 Purpose  
 
